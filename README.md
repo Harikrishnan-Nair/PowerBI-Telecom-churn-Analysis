@@ -25,6 +25,7 @@ The dataset has 23 columns which are as follows:
 21. numAdminTickets
 22. numTechTickets
 23. Churn
+![i2-p2](https://github.com/Harikrishnan-Nair/PowerBI-Telecom-churn-Analysis/assets/95662379/7927a0df-7982-44f7-9112-aa50512c7a40)
 
 The dasboard so prepared includes pages of 
 1. Home page - KPIs and the navigation to other pages
